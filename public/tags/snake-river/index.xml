@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snake-River on Ksbigbass</title>
+    <link>http://localhost:1313/tags/snake-river/</link>
+    <description>Recent content in Snake-River on Ksbigbass</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/snake-river/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fishing the Snake</title>
+      <link>http://localhost:1313/posts/fishing-the-snake/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fishing-the-snake/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/387_1528464443112-1024x768.jpeg&#34; alt=&#34;Fishing the Snake River&#34;&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Fishing the Snake River&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>
