@@ -7,7 +7,7 @@ categories:
   - "ned-rig"
 tags: 
   - "ned-rig"
-coverImage: "chartruese-Berkley-Half-Head.jpg"
+featured_image: "/images/chartruese-Berkley-Half-Head.jpg"
 ---
 
 A Better Ned Head, seems like we are all looking for a better [Ned Rig](https://ksbigbass.com/have-you-heard-of-the-ned-rig/) setup. We've all been there. That little TRD worm catches a giant bass and the hook bends, breaks, or is too small and we lose the fish of a lifetime.

@@ -8,7 +8,7 @@ categories:
   - "where-to-fish"
 tags: 
   - "largemouth-bass-trick-for-catching-bass-in-trees-learning-to-fish-trees-better"
-coverImage: "timothy-l-brock-1314411-unsplash-scaled.jpg"
+featured_image: "/images/timothy-l-brock-1314411-unsplash-scaled.jpg"
 ---
 
 [Don't Fish In the Trees : The Fishing Wire](http://www.thefishingwire.com/features/224423): One of the best pro's in the business Todd Faircloth breaks down how we are wasting our time fishing the trees. Most often the fish are related to the area because of contours and depth or time of year, the trees just happen to be cover for them. Check out what Todd has to offer you for your next adventure to that tree riddled lake and endless list of targets.

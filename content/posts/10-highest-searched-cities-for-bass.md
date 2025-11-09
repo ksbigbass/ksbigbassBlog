@@ -7,7 +7,7 @@ categories:
 tags: 
   - "lakes"
   - "where-to-fish"
-coverImage: "spotted-bass.jpg"
+featured_image: "/images/spotted-bass.jpg"
 ---
 
 10 Highest Searched City For Bass: Compiled below is a list of the most search cities for bass fishing in the United States. Added are the top lakes in the region for monster bass. #1 on the list is Chapmansboro and the gigantic spotted bass that the [Cumberland River](https://en.wikipedia.org/wiki/Cumberland_River) has become known for.

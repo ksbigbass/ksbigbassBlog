@@ -6,7 +6,7 @@ categories:
 tags: 
   - "maintenance"
   - "trailers"
-coverImage: "PA071054[1].jpg"
+featured_image: "/images/PA071054[1].jpg"
 ---
 
 ## Boats: The Love-Hate Relationship

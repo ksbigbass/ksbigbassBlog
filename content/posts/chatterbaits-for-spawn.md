@@ -7,7 +7,7 @@ categories:
   - "spring"
 tags: 
   - "chatterbait"
-coverImage: "original-chatterbait.jpg"
+featured_image: "/images/original-chatterbait.jpg"
 ---
 
 Chatterbaits for Spawn time largemouth bass fishing. Finding active fish willing to bite a moving bait is very productive in the spring. Fish are shallow and can be very aggressive.

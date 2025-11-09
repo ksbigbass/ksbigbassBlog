@@ -6,7 +6,7 @@ categories:
 tags: 
 - "umbrella-rig"
 
-coverImage: "alabama-rig2.jpg"
+featured_image: "/images/alabama-rig2.jpg"
 ---
 
 The Alabama Rig This has been the rage for the last few months and has won a lion's share of the biggest tournaments on the FLW trail.

@@ -7,7 +7,7 @@ categories:
   - "where-to-fish"
 tags: 
   - "milford"
-coverImage: "minn-Kota-Terrova.jpg"
+featured_image: "/images/minn-Kota-Terrova.jpg"
 ---
 
 Video of 40+mph wind Milford Lake Kansas: With our boat launching for a tournament right here at this boat ramp a few hours later, we watched in horror as the waves came crashing in. More rain and storms continued overnight causing the water levels to rise, cool the water off, and muddy things up. What could be better?

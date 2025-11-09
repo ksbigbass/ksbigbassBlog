@@ -5,7 +5,7 @@ categories:
   - "bass"
 tags: 
   - "bluff-wall"
-coverImage: "IMG00461-20110605-1731.jpg"
+featured_image: "/images/IMG00461-20110605-1731.jpg"
 ---
 
 Bluffed Again:How I fish bluff walls for bass: With all of the advances in electronics these days it's easy to get lazy, and use the map in your Lowrance Elite-12 or the Hummingbird in your dash. Don't get me wrong, these are invaluable pieces of technology that help anglers find the fish, especially with the newer side and down imaging technologies.

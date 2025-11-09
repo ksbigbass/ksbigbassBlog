@@ -9,7 +9,7 @@ categories:
   - "tackle-bass"
 tags: 
   - "nrx-g-loomis-spinning-rod-review-best-spinning-rod"
-coverImage: "51lDVnkzvDL._SL1500_.jpg"
+featured_image: "/images/51lDVnkzvDL._SL1500_.jpg"
 ---
 
 The G. Loomis NRX 803S JWR drop shot rod and the NRX 852S JWR  have been awesome additions to my arsenal.

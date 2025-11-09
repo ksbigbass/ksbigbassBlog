@@ -6,7 +6,7 @@ categories:
 tags: 
   - "misc"
 
-coverImage: "577739_516715738348074_1144927242_n.jpg"
+featured_image: "/images/577739_516715738348074_1144927242_n.jpg"
 ---
 
 <figure>

@@ -8,7 +8,7 @@ categories:
   - "where-to-fish"
 tags: 
   - "mlf"
-coverImage: "mlf-Powroznik.jpg"
+featured_image: "/images/mlf-Powroznik.jpg"
 ---
 
 MLF: Powroznik wins Major League Fishing stage 3 earning him the title of Bass Pro Tour Stage Three Champion. 63 - 04 was his final total weight. Landed 20 fish during the day with an average of 3.03 lbs and today's biggest whopper was a badly needed 6.04.

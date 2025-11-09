@@ -5,7 +5,7 @@ categories:
     - "stories"
 tags: 
   - "table-rock-report"
-coverImage: "10443109_789685727717739_1930640835466830636_o.jpg"
+featured_image: "/images/10443109_789685727717739_1930640835466830636_o.jpg"
 ---
 
 ## A Secret Smile: Live worms a hidden secret?

@@ -7,7 +7,7 @@ categories:
   - "stories"
 tags: 
   - "lake-bass-fishing-learning-how-to-tournament-fish-report"
-coverImage: "deer-lake-ozark.jpg"
+featured_image: "/images/deer-lake-ozark.jpg"
 ---
 
 24hr learning curve Lake Ozark, Missouri: [Lake Ozark](http://mostateparks.com/park/lake-ozarks-state-park) is a very large lake in the beautiful state of Missouri, and shallower than other Ozark lakes in the region.  Learning how to fish this lake can be a challenge to the novice fisherman, but persistence will pay off. Patience will result with an a livewell full of big largemouth bass.  

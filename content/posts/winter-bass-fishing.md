@@ -6,7 +6,8 @@ categories:
 tags: 
   - "cold-water"
   - "winter"
-coverImage: "IMG_20191221_135033950-scaled.jpg"
+  
+featured_image: "/images/IMG_20191221_135033950-scaled.jpg"
 ---
 
 ## The cold water is your friend when hunting for big largemouth bass.

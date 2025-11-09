@@ -10,7 +10,8 @@ categories:
   - "what-to-use"
 tags: 
   - "pop-r-kvd-lessons-for-topwater-with-a-pop-r"
-coverImage: "Pop-R.jpg"
+
+featured_image: "/images/Pop-R.jpg"
 ---
 
 ## What about the Stalkers KVD?

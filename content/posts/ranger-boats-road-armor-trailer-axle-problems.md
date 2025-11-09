@@ -10,7 +10,7 @@ categories:
 tags: 
   - "bad-welds"
   - "road-armor-trailer"
-coverImage: "ranger-boat-trailer-axle-broken.jpg"
+featured_image: "/images/ranger-boat-trailer-axle-broken.jpg"
 ---
 
 Very common, unfortunately, a know bad weld exists on the early road armor trailers.[](https://www.facebook.com/ufi/reaction/profile/browser/?ft_ent_identifier=ZmVlZGJhY2s6Mzc0NTE0ODkwNTUwNzk2Nl8zNzQ1MTU4MTkyMTczNzA0&av=100000289586309)

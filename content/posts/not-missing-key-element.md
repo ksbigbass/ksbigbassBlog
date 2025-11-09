@@ -10,7 +10,8 @@ categories:
   - "top-water"
 tags: 
   - "bluegill-lures-learning-new-patterns-largemouth-smallmouth-spotted-bass-topwater-techniques-lures-baits"
-coverImage: "040.jpg"
+  
+featured_image: "/images/040.jpg"
 ---
 
 Not Missing a Key Element: I am on my way to [Table Rock Lake](http://goo.gl/maps/WisR) for a Much needed week of fishing.    As I do my homework checking water levels, temps, and local guides fishing reports, I can't quit thinking about throwing a gill painted topwater for some monster bass.

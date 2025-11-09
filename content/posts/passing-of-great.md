@@ -7,7 +7,7 @@ categories:
   - "stories"
 tags: 
   - "sob-lures"
-coverImage: "Bill-Dee-SOB.jpg"
+featured_image: "/images/Bill-Dee-SOB.jpg"
 ---
 
 [Link](http://texasfishingforum.com/forums/ubbthreads.php/topics/6221565/Re_Bill_Dee_s_Obituary)

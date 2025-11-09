@@ -7,7 +7,7 @@ categories:
 tags: 
   - "curado-dc"
 
-coverImage: "919RefukQ8L._SL1500_.jpg"
+featured_image: "/images/919RefukQ8L._SL1500_.jpg"
 ---
 
 ## Shimano: Curado DC Review.

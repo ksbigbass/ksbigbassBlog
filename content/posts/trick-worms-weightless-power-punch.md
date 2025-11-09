@@ -7,7 +7,7 @@ categories:
 tags: 
   - "spring"
 
-coverImage: "7lber-in-water.jpg"
+featured_image: "/images/7lber-in-water.jpg"
 ---
 
 

@@ -8,7 +8,8 @@ categories:
 tags: 
   - "fish-finders"
   - "graph"
-coverImage: "47708.jpg"
+  
+featured_image: "/images/47708.jpg"
 ---
 
 ## What's on that graph? We have all said that one.

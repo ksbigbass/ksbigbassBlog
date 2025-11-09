@@ -9,14 +9,14 @@ categories:
   - "what-to-use"
 tags: 
   - "summer"
-coverImage: "IMG00421-20110512-1030.jpg"
+
+featured_image: "/images/IMG00421-20110512-1030.jpg"
 ---
 
 Underspin. Here's a better look. Turns out I was ahead of the curve on this one.
 
 [Casey Ashley](https://www.bassmaster.com/anglers/casey-ashley) won the Bassmaster Classic on a very similar bait.
 
-<!--more-->
 
 <figure>
 

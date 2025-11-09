@@ -6,7 +6,7 @@ categories:
   - "optimax-dfi"
 tags: 
   - "boats"
-coverImage: "OptiMax-DFI-Oil-closeup.jpg"
+featured_image: "/images/OptiMax-DFI-Oil-closeup.jpg"
 ---
 
 Optimax/DFI or Premium Plus? Who hasn't had that question go through their head if they own a Mercury Marine Optimax Outboard Motor.

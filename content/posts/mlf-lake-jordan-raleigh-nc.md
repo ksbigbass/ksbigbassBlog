@@ -7,7 +7,7 @@ tags:
   - "spawn"
   - "spring"
 
-coverImage: "jackhammer-bladed-jig.jpg"
+featured_image: "/images/jackhammer-bladed-jig.jpg"
 ---
 
 ## MLF: Lake Jordan, Raleigh NC Big Fish Galore

@@ -6,7 +6,7 @@ categories:
 tags: 
   - "fish-finders"
 
-coverImage: "shot1.jpg"
+featured_image: "/images/shot1.jpg"
 ---
 
 Sonar Units Truly are Becoming Fish Finders! I thought a Lowrance sonar video set would be appropriate for the blog this week.  Headed to Stockton Lake, Mo for this years championship.

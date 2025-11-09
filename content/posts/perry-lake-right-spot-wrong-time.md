@@ -6,7 +6,7 @@ categories:
 tags: 
   - "timing"
 
-coverImage: "Perry_Lake_Kansas_Dam.jpg"
+featured_image: "/images/Perry_Lake_Kansas_Dam.jpg"
 ---
 
 Perry Lake: Right Spot, Wrong Time: That's right. Good riddance to that POS!!! This was a lake I just didn't want to fish. The little bit of practice we got a few weeks ago didn't go to well and I didn't have the normal confidence that I rely on come game day.

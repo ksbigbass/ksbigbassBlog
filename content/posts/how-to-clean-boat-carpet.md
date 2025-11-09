@@ -8,7 +8,7 @@ categories:
 tags: 
   - "how-to"
 
-coverImage: "carpet.jpg"
+featured_image: "/images/carpet.jpg"
 ---
 
 Cleaning your bass boat marine carpet, how to get the blood, grease, and slime out. The latest trend in carpet cleaning is here and it might not be what your thinking.

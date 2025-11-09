@@ -6,12 +6,11 @@ categories:
   - "where-to-fish"
 tags: 
   - "records"
-coverImage: "RAINBOW-TROUT-RECORD-BROKEN-TWICE-IN-APRIL_frontimagecrop.jpg"
+featured_image: "/images/RAINBOW-TROUT-RECORD-BROKEN-TWICE-IN-APRIL_frontimagecrop.jpg"
 ---
 
 KS RAINBOW TROUT RECORD BROKEN: Twice in April anglers were successful in breaking state records for trout in Kansas. Way to go guys! Check out this giant Rainbow pulled out of Kill Creek Park Lake near Kansas City.
 
-<!--more-->
 
 [KDWP](https://ksoutdoors.com/Fishing/State-Record-Fish)
 

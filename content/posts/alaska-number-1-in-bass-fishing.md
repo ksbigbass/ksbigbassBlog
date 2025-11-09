@@ -6,7 +6,7 @@ categories:
 tags: 
   - "misc"
 
-coverImage: "flyrod.jpg"
+featured_image: "/images/flyrod.jpg"
 ---
 
 Alaska: Number 1 in Bass Fishing Searches: Google Search Trends showed a big surge in bass fishing related search terms back in 2004 for Alaska. The graph spikes at 100. Instinct tells me this was more for a search for Rock Bass or Striped Bass versus largemouth or smallmouth bass. Either way interesting information for you to enjoy.

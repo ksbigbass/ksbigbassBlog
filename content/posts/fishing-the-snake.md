@@ -6,7 +6,7 @@ categories:
 
 tags: 
   - "snake-river"
-coverImage: "385_1528464415530.jpeg"
+featured_image: "/images/385_1528464415530.jpeg"
 ---
 
 <figure>
@@ -21,7 +21,6 @@ Fishing the Snake River
 
 </figure>
 
-<!--more-->
 
 Fishing the Snake: Fishing in PSNW for steelhead. With guide [Trevor Wine](https://www.worldcastanglers.com/about-wca/fly-fishing-guides/) from WCA fly Fishing we headed out early in a well equipped drift boat and ready to catch some giant trout.
 

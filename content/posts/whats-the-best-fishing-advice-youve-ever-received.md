@@ -8,7 +8,8 @@ categories:
   - "stories"
 tags: 
   - "list"
-coverImage: "12H-scaled.jpg"
+
+featured_image: "/images/12H-scaled.jpg"
 ---
 
 I've put together a list of six of the most popular tidbits of fishing advice from seasoned anglers across the web. Never stop learning new things. So many good fishermen out there and every one of them has something to teach us. Tell us below what's your best advice you've received?

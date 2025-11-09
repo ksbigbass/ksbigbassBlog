@@ -6,7 +6,7 @@ categories:
 tags: 
   - "summer-fishing"
 
-coverImage: "34694_135797433106575_7232364_n.jpg"
+featured_image: "/images/34694_135797433106575_7232364_n.jpg"
 ---
 
 Re:The Hotter The Better: I fish all year round, weather conditions of all types. Here in Kansas, my current stomping grounds, the winters can be brutally cold, and the summers are hot. Tomorrow's forecast is 110 degrees with 80%+ humidity..aaarrggghhh. A lot of the summer bass fishing articles talk about going deep, not this one. I am going to talk about fishing shallow with 90+ degree surface water temps.

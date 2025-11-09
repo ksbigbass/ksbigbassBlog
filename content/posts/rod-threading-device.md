@@ -7,7 +7,7 @@ categories:
 tags: 
   - "rod-threading-device"
 
-coverImage: "61pbkxsVYnL._SL1500_.jpg"
+featured_image: "/images/61pbkxsVYnL._SL1500_.jpg"
 ---
 
 RTD: Rod Threading Device: Fishing Line Rod Threading Tool uses spring-loaded arms that take turns gripping the line gripper as it travels thru the line guides. The number of guides could be unlimited. May not work with all micro-guided rods.

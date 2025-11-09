@@ -7,7 +7,7 @@ categories:
   - "where-to-fish"
 tags: 
   - "clinton-lake"
-coverImage: "11822758_1017936668225976_5998185992307289146_n.jpg"
+featured_image: "/images/11822758_1017936668225976_5998185992307289146_n.jpg"
 ---
 
 Prep for the next tournament at Clinton Lake has begun in earnest now.

@@ -7,14 +7,13 @@ categories:
 tags: 
   - "gadgets"
 
-coverImage: "lockout-buddy.jpg"
+featured_image: "/images/lockout-buddy.jpg"
 ---
 
 Trailers: Magnetic Backup Lockout Key: With most trailers today having a trailer brake system on our bass boat trailers they encounter some issues occasionally.
 
 ![Trailers: Magnetic Backup lockout Key](/images/lockout-buddy-150x150.jpg)
 
-<!--more-->
 
 This system works great, usually. The best tool to have handy a magnetic backup lockout key when this system breaks, because it most likely will happen to you at the most inopportune time, is this lockout buddy.
 

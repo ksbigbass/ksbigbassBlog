@@ -7,6 +7,8 @@ tags:
   - "bass"
   - "mlf"
   - "pro-tours"
+
+featured_image: "/images/Hackney-hang-loose-feature.png"
 ---
 
 ## MLF or BASS or FLW: The new season is here!

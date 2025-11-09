@@ -7,7 +7,8 @@ categories:
   - "what-to-use"
 tags: 
   - "fishing-tackle-review-best-bass-fishing-lures"
-coverImage: "pointer78-e1431568242454.jpg"
+  
+featured_image: "/images/pointer78-e1431568242454.jpg"
 ---
 
 Some interesting info! [Top 50 Lure Rankings](http://www.profishingresearch.com/eShop/mar_lures.asp) FOR MARCH 

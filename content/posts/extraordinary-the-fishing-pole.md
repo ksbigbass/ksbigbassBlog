@@ -6,7 +6,7 @@ categories:
   - "tribute"
 tags: 
   - "stories"
-coverImage: "tim-van-cleef-cOoe2tUe1qI-unsplash-scaled.jpg"
+featured_image: "/images/tim-van-cleef-cOoe2tUe1qI-unsplash-scaled.jpg"
 ---
 
 ## Fishing for a smile

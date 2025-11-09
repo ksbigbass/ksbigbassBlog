@@ -16,7 +16,7 @@ tags:
   - "spring"
   - "stained"
   - "summer"
-coverImage: "buzzbait2-e1431648890332.jpg"
+featured_image: "/images/buzzbait2-e1431648890332.jpg"
 ---
 
 Buzzbait conditions: The conditions were perfect for a buzzbait bite — post-frontal with a nice chop on the water, just enough to break up the profile of my bait. It was a textbook presentation.

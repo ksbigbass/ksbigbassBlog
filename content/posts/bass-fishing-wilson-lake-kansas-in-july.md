@@ -6,7 +6,7 @@ categories:
 tags: 
   - "summer"
 
-coverImage: "Wilson-Lake-KS-Smallmouth-e1553995356420.jpg"
+featured_image: "/images/Wilson-Lake-KS-Smallmouth-e1553995356420.jpg"
 ---
 
 ## Bass Fishing Wilson Lake, Kansas in July

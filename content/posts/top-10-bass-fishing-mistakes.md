@@ -6,7 +6,7 @@ categories:
 tags: 
   - "top-10-bass-fishing"
 
-coverImage: "casting-nrx.jpg"
+featured_image: "/images/casting-nrx.jpg"
 ---
 
 Top 10 Bass Fishing Mistakes: I thought I would take a minute and talk about some of the mistakes that novice fisherman make. We all start out on the same level for the most part, Jonathan Van Dam, might be an exception to that rule, but for the most part we all suck.  So to make that sucking go away a little faster I've put together a Top 10 list of what I've  learned the hard way.

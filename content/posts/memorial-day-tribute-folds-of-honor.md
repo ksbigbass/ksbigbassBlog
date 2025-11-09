@@ -6,7 +6,7 @@ categories:
   - "tribute"
 tags: 
   - "tribute"
-coverImage: "girl-flag.jpg"
+featured_image: "/images/girl-flag.jpg"
 ---
 
 Memorial Day Tribute: Folds of Honor. **Memorial Day** is an American holiday, observed on the last Monday of May, honoring the men and women who died while serving in the U.S. military.

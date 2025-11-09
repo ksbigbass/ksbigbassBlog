@@ -7,7 +7,7 @@ categories:
   - "what-to-use"
 tags: 
   - "jackplate-bolts"
-coverImage: "20190321_152244-e1553206880178-scaled.jpg"
+featured_image: "/images/20190321_152244-e1553206880178-scaled.jpg"
 ---
 
 ## Bolts to Add on a Jackplate to Ranger 519vx

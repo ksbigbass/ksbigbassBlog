@@ -11,7 +11,8 @@ categories:
 tags: 
   - "lunker"
   - "smallmouth"
-coverImage: "242898_159853427415441_100001723559235_375998_4974429_o.jpg"
+  
+featured_image: "/images/242898_159853427415441_100001723559235_375998_4974429_o.jpg"
 ---
 
 OMG! Smallie!!!! Was lucky enough to film an incredible smallie show this past week where we had several fish over 6 lbs and 5 fish we weighed over 5 lbs on a digital scale, all on a variety of baits from jerkbaits, jigs, cranks, and lipless cranks.

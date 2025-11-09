@@ -12,7 +12,7 @@ categories:
 tags: 
   - "pop-shadz"
   - "pop-r"
-coverImage: "Pop-R1.jpg"
+featured_image: "/images/Pop-R1.jpg"
 ---
 
 Missed a Big One: Hit a local yocal today and found quite a few Big bucks running the bank.   Had about 20 min to fish, so I had to make the best of it.

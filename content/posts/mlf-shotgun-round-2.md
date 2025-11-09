@@ -5,7 +5,7 @@ categories:
   - "mlf"
 tags: 
   - "mlf"
-coverImage: "Brent-Ehrler-MLF-Lake-Chickamugua-scaled.jpg"
+featured_image: "/images/Brent-Ehrler-MLF-Lake-Chickamugua-scaled.jpg"
 ---
 
 MLF Shotgun Round 2 at Lake Chickamauga  

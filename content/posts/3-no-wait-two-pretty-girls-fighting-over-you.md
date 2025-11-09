@@ -6,7 +6,7 @@ categories:
   - "stories"
 tags: 
   - "stories"
-coverImage: "snake.jpg"
+featured_image: "/images/snake.jpg"
 ---
 
 ## This sure feels like a couple of hot girls are fighting over me, vying for all my attention.

@@ -8,7 +8,7 @@ categories:
   - "where-to-fish"
 tags: 
   - "hartwell"
-coverImage: "Lake-Hartwell.jpg"
+featured_image: "/images/Lake-Hartwell.jpg"
 ---
 
 Bassmaster Elite at Lake Hartwell: April 4th, 2019. Professional Fisherman Visit Anderson,SC

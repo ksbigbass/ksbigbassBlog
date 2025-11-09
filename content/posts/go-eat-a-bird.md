@@ -6,7 +6,7 @@ categories:
   - "gadgets"
   - "gear-to-buy"
   - "stories"
-coverImage: "save-phace.jpg"
+cfeatured_image: "/images/save-phace.jpg"
 ---
 
 Go Eat a Bird!!! Bought a Save Phace now I am glad I did after reading a friends blog.

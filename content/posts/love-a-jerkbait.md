@@ -7,7 +7,7 @@ tags:
   - "pre-spawn"
   - "spring"
 
-coverImage: "IMG00316-20110116-1932.jpg"
+featured_image: "/images/IMG00316-20110116-1932.jpg"
 ---
 
 ## Early Spring / Fall

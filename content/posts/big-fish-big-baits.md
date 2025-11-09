@@ -9,7 +9,7 @@ categories:
   - "where-to-fish"
 tags: 
   - "table-rock"
-coverImage: "Zoom-ol-monster-worm.jpg"
+featured_image: "/images/Zoom-ol-monster-worm.jpg"
 ---
 
 Big fish like big baits: Table Rock Lake is known for its spotted bass population as well as the quality largemouth and some giant smallmouth that show up from time to time. I've caught the biggest spotted bass of my life fishing there. As well as some picture worthy smallmouth. This is shaping up to be a great tournament with the largemouth bass on fire right now.

@@ -9,7 +9,7 @@ categories:
 tags: 
   - "lunker"
   - "records"
-coverImage: "hectorbaitshop.jpg"
+featured_image: "/images/hectorbaitshop.jpg"
 ---
 
 ## Newer Record Set!

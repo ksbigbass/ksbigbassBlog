@@ -5,7 +5,7 @@ categories:
   - "finesse"
 tags: 
   - "ned-rig"
-coverImage: "nedrig.jpg"
+featured_image: "/images/nedrig.jpg"
 ---
 
 Have you heard of Ned: Ned's Rig is a powerful finesse fishing tool for all kinds of fish and extremely different conditions.  The technique uses an ultra light mushroom head jig. Usually something like a 1/10th ounce along with a spinning rod rigged with 6 or 8lb fluorocarbon.

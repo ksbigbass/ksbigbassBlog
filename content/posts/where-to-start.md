@@ -7,14 +7,13 @@ categories:
   - "stories"
 tags: 
   - "table-rock-report"
-coverImage: "004.jpg"
+
+featured_image: "/images/004.jpg"
 ---
 
 ## Where to Start: Wow! Where do you start ?
 
 Figuring out where to start can send a lump to our stomachs some days. That can be the first feeling that comes over a person when they encounter a lake the size of Table Rock.
-
-<!--more-->
 
 <figure>
 

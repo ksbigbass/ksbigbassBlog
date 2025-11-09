@@ -5,7 +5,8 @@ categories:
   - "bass"
 tags: 
   - "top-10"
-coverImage: "410ZMyTlNLL._SL1050_.jpg"
+  
+featured_image: "/images/410ZMyTlNLL._SL1050_.jpg"
 ---
 
 Top 10 Bass Fishing Lures 2015: When looking for the next lure to tie on consider something off this list to increase the odds in your favor. Compiled below is a list of the top selling baits of 2015 and continue to stay on top of the leaderboard of personal best big fish by anglers around the globe.

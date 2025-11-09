@@ -8,7 +8,7 @@ categories:
   - "trailers-tools"
 tags: 
   - "stories"
-coverImage: "IMG00644-20110521-1448.jpg"
+featured_image: "/images/IMG00644-20110521-1448.jpg"
 ---
 
 End of a Marathon: Sure we all have had one of those days.   Well today was Tourney day.   After a long day of work Friday we ended up in Lawrence around 9pm, just in time to find out it was KU's Graduation Weekend.  

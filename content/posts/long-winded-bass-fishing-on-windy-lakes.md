@@ -7,7 +7,7 @@ categories:
 tags: 
   - "bass-fishing-in-the-wind"
 
-coverImage: "Windy-Lake-Table-Rock.jpeg"
+featured_image: "/images/Windy-Lake-Table-Rock.jpeg"
 ---
 
 ### Bass Fishing on Windy Lake Stockton

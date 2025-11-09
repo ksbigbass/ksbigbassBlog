@@ -7,7 +7,8 @@ categories:
   - "videos"
 tags: 
   - "lake-fork"
-coverImage: "lake-fork-map.jpg"
+
+featured_image: "/images/lake-fork-map.jpg"
 ---
 
 Lake Fork Date Line: Early days video of Matt Allen of Tactical Bassin' and his [guide](https://ksbigbass.com/become-a-paa-observer/), putting the hammer to the big fish. Matt loses a giant in the trees, backs it up with a 12 lber then finishes off with a 7+ ! What a day on the lake for this guy!

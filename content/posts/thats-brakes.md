@@ -6,7 +6,8 @@ categories:
   - "stories"
 tags: 
   - "trailer-maintenance-problems-bass-fishing-tournament-gear"
-coverImage: "tires-scaled.jpg"
+  
+featured_image: "/images/tires-scaled.jpg"
 ---
 
 That's the brakes: Headed to Clinton Lake early Saturday morning with a cool overcast start to the day.   All seemed well as I headed out for the day.  I had hooked the boat up the night before so all I had to do was climb in and go.  I made it to Greg's house without any problems,  and then on to the lake.

@@ -10,7 +10,8 @@ categories:
 tags: 
   - "bass-boat-wreck-bass-fishing-tournament-professional-bass-fisherman-accident-saftey"
   - "shin-fukae"
-coverImage: "doc4e00c95cc00fe995212796.jpg"
+  
+featured_image: "/images/doc4e00c95cc00fe995212796.jpg"
 ---
 
 Shinichi Fukae wrecks his boat: Professional bass fisherman, Shinichi Fukae and his cameraman were injured Sunday afternoon
@@ -19,7 +20,7 @@ June 22, 2011.
 
 <figure>
 
-[![](images/doc4e00c95cc00fe995212796.jpg)](http://3.bp.blogspot.com/-TOdd0KMZCf0/TgFgqyQ9jMI/AAAAAAAAAHc/LaW3C6nmF2g/s1600/doc4e00c95cc00fe995212796.jpg)
+[![](/images/doc4e00c95cc00fe995212796.jpg)](http://3.bp.blogspot.com/-TOdd0KMZCf0/TgFgqyQ9jMI/AAAAAAAAAHc/LaW3C6nmF2g/s1600/doc4e00c95cc00fe995212796.jpg)
 
 <figcaption>
 

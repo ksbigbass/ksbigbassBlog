@@ -5,7 +5,7 @@ categories:
   - "misc"
 tags: 
   - "news"
-coverImage: "flw-ceo.jpg"
+featured_image: "/images/flw-ceo.jpg"
 ---
 
 **APRIL 10, 2019 — 10:50PM**

@@ -11,7 +11,7 @@ tags:
   - "bass"
   - "flw"
   - "mlf"
-coverImage: "MLF-Chickamauga-scaled.jpg"
+featured_image: "/images/MLF-Chickamauga-scaled.jpg"
 ---
 
 Is FLW losing the race for live view fans? More importantly are they losing the fight for fans?

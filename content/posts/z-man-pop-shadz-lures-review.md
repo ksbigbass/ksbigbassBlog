@@ -5,7 +5,8 @@ categories:
   - "top-water"
 tags: 
   - "zman"
-coverImage: "zmanpopper.png"
+  
+featured_image: "/images/zmanpopper.png"
 ---
 
 Z-MAN Pop Shadz Lures Review: This bait has a tendency to want to walk around on the hook. The trick to rigging this bait is to use a toothpick through the eye of the hook to hold it in place. This eliminates the bait moving around and causing headaches and anger.

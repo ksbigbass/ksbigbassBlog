@@ -9,7 +9,7 @@ categories:
   - "who-to-use"
 tags: 
   - "fishing-guides"
-coverImage: "top_guide_directory1.jpg"
+featured_image: "/images/top_guide_directory1.jpg"
 ---
 
 ## Become a PAA Observer, win some free stuff.

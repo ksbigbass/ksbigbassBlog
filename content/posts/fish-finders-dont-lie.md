@@ -6,7 +6,7 @@ categories:
 tags: 
   - "bass-activity"
 
-coverImage: "lowrance-side-image.jpg"
+featured_image: "/images/lowrance-side-image.jpg"
 ---
 
 ## Fish Finders Don't Lie

@@ -6,7 +6,7 @@ categories:
 tags: 
   - "cold-water"
   - "winter"
-coverImage: "IMG_20191221_135021718-1-scaled.jpg"
+featured_image: "/images/IMG_20191221_135021718-1-scaled.jpg"
 ---
 
 3 Best Top Performing Winter Bass Baits for Largemouth bass.

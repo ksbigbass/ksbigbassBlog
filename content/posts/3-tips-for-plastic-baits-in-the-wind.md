@@ -6,7 +6,7 @@ categories:
 tags: 
   - "bass-fishing"
 
-coverImage: "zoomfluke.jpg"
+featured_image: "/images/zoomfluke.jpg"
 ---
 
 Fishing into the wind does a lot of things for the angler, but I think the most important is the minimization of the bow in the fishing line created by the wind.  Fishing with the wind can create as much bow in the line as fishing perpendicular to the wind, only problem is that it is far less noticeable to the angler and much harder to detect. It may be overcome with going with a heavier weighted bait, but this has its own inherent problems. Like these at Stockton in Missouri.

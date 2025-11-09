@@ -10,7 +10,7 @@ categories:
 tags: 
   - "mlf"
   - "scale"
-coverImage: "mlf-scale-in-use.jpg"
+featured_image: "/images/mlf-scale-in-use.jpg"
 ---
 
 ## Fishing Scale: ElectroSamson Brecknell 

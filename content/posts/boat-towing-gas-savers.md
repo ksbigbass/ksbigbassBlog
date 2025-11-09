@@ -7,7 +7,7 @@ categories:
   - "what-to-use"
 tags: 
   - "maintenance"
-coverImage: "tires-scaled.jpg"
+featured_image: "/images/tires-scaled.jpg"
 ---
 
 Boat Towing Gas Savers: It's important to keep the rig rolling down the road.  Small things I do that can help keep a couple dollars in my pocket.

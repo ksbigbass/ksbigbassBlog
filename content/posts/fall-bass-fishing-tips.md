@@ -7,7 +7,7 @@ categories:
 tags: 
   - "fall-fishing"
 
-coverImage: "swimbait.jpg"
+featured_image: "/images/swimbait.jpg"
 ---
 
 ### 3 Fall Bass Fishing Tips

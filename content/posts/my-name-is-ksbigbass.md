@@ -5,7 +5,8 @@ categories:
   - "stories"
 tags: 
   - "ksbigbass"
-coverImage: "7lber.jpg"
+  
+featured_image: "/images/7lber.jpg"
 ---
 
 My name is @ksbigbass,  and as the name suggests,  I do live in Kansas and I am on the eternal search for more and Bigger bass !!

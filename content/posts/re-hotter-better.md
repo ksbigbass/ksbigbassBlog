@@ -5,7 +5,7 @@ categories:
   - "summer"
 tags: 
   - "summer"
-coverImage: "truck_temp_115.jpg"
+featured_image: "/images/truck_temp_115.jpg"
 ---
 
 <figure>

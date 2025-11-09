@@ -6,7 +6,7 @@ categories:
 tags: 
   - "fall"
 
-coverImage: "whopper-plopper.jpg"
+featured_image: "/images/whopper-plopper.jpg"
 ---
 
 

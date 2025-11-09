@@ -10,7 +10,8 @@ categories:
   - "summer"
 tags: 
   - "stories"
-coverImage: "023.jpg"
+
+featured_image: "/images/023.jpg"
 ---
 
 The Meat.

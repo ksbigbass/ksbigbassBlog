@@ -5,7 +5,7 @@ categories:
   - "stories"
 tags: 
   - "stories"
-coverImage: "Windy-Lake-Table-Rock.jpeg"
+featured_image: "/images/Windy-Lake-Table-Rock.jpeg"
 ---
 
 Just a Goal…. I need to deviate from my normal fishing talk for a second.  I have been writing this blog for a few months now and am still amazed that anyone actually reads it. 

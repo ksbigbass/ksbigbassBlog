@@ -5,7 +5,7 @@ categories:
   - "misc"
 tags: 
   - "record-striper"
-coverImage: "reocrd-striped-bass.jpg"
+featured_image: "/images/reocrd-striped-bass.jpg"
 ---
 
 Missouri: Possible Record Striper: The MDC is confirming the catch. Cunningham weighed the fish on certified scales at the MDC hatchery below Table Rock Dam at about 7:30 that morning.

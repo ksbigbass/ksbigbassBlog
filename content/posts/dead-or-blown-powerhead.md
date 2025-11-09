@@ -7,7 +7,7 @@ categories:
   - "who-to-use"
 tags: 
   - "blown-outboard"
-coverImage: "20190310_172453-e1553202923101-scaled.jpg"
+cfeatured_image: "/images/20190310_172453-e1553202923101-scaled.jpg"
 ---
 
 ## Dead or Blown Powerhead: It has happened again.
