@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <div class="pa3 pa4-ns w-100 w-70-ns center">
+    <h1 class="f2 lh-title fw2 mb4">All Posts</h1>
+    
+    {{ range where .Site.RegularPages "Type" "posts" }}
+      <div class="mb3">
+        <h2 class="f4 fw6 mb1">
+          <a href="{{ .Permalink }}" class="link black dim">
+            {{ .Title }}
+          </a>
+        </h2>
+        <p class="f6 gray mv1">{{ .Date.Format "January 2, 2006" }}</p>
+        {{ if .Description }}
+          <p class="f5 lh-copy mv2">{{ .Description }}</p>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+{{ end }}
