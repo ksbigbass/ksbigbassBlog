@@ -8,7 +8,7 @@ tags:
   - "mlf"
   - "pro-tours"
 
-featured_image: "/images/Hackney-hang-loose-feature.png"
+featured_image: "/images/12H-scaled.jpg"
 ---
 
 ## MLF or BASS or FLW: The new season is here!
@@ -32,11 +32,6 @@ FLW also lost some of their big names to MLF. The allure of the new series and t
 
 I love all three and each has its pluses and minuses and competition will ultimately end up creating a better products for us the consumers and lovers of all things bass fishing.
 
-<figure>
-
-![](/images/Hackney-hang-loose-feature.png)
-
-</figure>
 
 
 @ksbigbass
