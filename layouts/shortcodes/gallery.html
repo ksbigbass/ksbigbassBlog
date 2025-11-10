@@ -1,0 +1,79 @@
+{{/*
+    This shortcode iterates through all images in the current Page Bundle,
+    loads captions from the accompanying image_captions.json file,
+    and displays them in a responsive, modern grid format.
+    
+    Setup:
+    1. Place this file in layouts/shortcodes/gallery.html
+    2. Ensure your images and image_captions.json are in a Page Bundle (e.g., content/fish-pics/).
+*/}}
+
+{{ $image_resources := .Page.Resources.ByType "image" }}
+
+{{/* Try to load the captions data from image_captions.json in the same bundle */}}
+{{ $data_file := .Page.Resources.GetMatch "image_captions.json" }}
+{{ $captions := dict }}
+
+{{ if $data_file }}
+    {{/* Requires "hugo mod init" and "hugo mod get github.com/gohugoio/hugo-mod-jslibs/v2/popper" to use transform.Unmarshal if not already configured.
+         For most modern Hugo sites, this should work without extra config. */}}
+    {{ $unmarshaled_data := "" }}
+    {{ with $data_file.Content }}
+        {{ $unmarshaled_data = . | transform.Unmarshal }}
+    {{ end }}
+    
+    {{ if $unmarshaled_data }}
+        {{ $captions = $unmarshaled_data }}
+    {{ else }}
+        {{ errorf "Shortcode 'gallery': Could not unmarshal JSON data from %s in page %s" $data_file.Name .Page.Path }}
+    {{ end }}
+{{ else }}
+    {{ warnf "Shortcode 'gallery': Could not find image_captions.json in page bundle %s. Images will be displayed without captions." .Page.Path }}
+{{ end }}
+
+
+{{ if $image_resources }}
+<div class="gallery-grid grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-4">
+    {{ range $image_resources }}
+        {{/* Skip the featured image if it is defined in front matter */}}
+        {{ if ne .Name $.Page.Params.featured_image }}
+            
+            {{/* Get the caption using the image filename as the key */}}
+            {{ $caption := index $captions .Name | default "" }}
+
+            <div class="gallery-item bg-white shadow-xl rounded-xl overflow-hidden transform transition duration-300 hover:scale-[1.02] hover:shadow-2xl">
+                
+                {{/* Use .RelPermalink for the source path relative to the bundle */}}
+                <a href="{{ .RelPermalink }}" target="_blank" title="View {{ .Name }}">
+                    <img 
+                        src="{{ .RelPermalink }}" 
+                        alt="{{ .Name }} - {{ $caption }}" 
+                        class="w-full h-64 object-cover object-center"
+                        loading="lazy"
+                    />
+                </a>
+                
+                {{ if $caption }}
+                    <div class="p-4 text-center border-t border-gray-100 bg-gray-50">
+                        <p class="text-sm font-medium text-gray-700">{{ $caption }}</p>
+                    </div>
+                {{ end }}
+            </div>
+        {{ end }}
+    {{ end }}
+</div>
+{{ else }}
+    <p class="text-center text-red-500 py-8">No fish pictures found in this folder! Please add images to the Page Bundle.</p>
+{{ end }}
+<style>
+/* Basic styling for the gallery component */
+.gallery-grid {
+    font-family: 'Inter', sans-serif;
+}
+/* Ensure good aspect ratio on smaller screens */
+@media (max-width: 640px) {
+    .gallery-item img {
+        height: 48vh; /* Taller images for mobile */
+    }
+}
+</style>

@@ -1,0 +1,5 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Ksbigbass"
+theme = "ananke"
+paginate = 10
